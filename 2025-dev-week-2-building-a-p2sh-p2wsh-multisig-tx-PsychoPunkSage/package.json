@@ -1,0 +1,25 @@
+{
+  "name": "bpd-week-2-assignment",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "bip68": "^1.0.4",
+    "bitcoinjs-lib": "^6.1.7",
+    "ecpair": "^3.0.0-rc.0",
+    "tiny-secp256k1": "^2.2.3"
+  },
+  "devDependencies": {
+    "@types/jest": "29.5.0",
+    "@types/node": "18.15.11",
+    "bcoin": "github:bcoin-org/bcoin#57f59569116a1dede3d7d97b595a34809aaace5a",
+    "jest": "29.5.0",
+    "ts-jest": "29.0.5",
+    "ts-loader": "^9.2.3",
+    "ts-node": "^10.0.0",
+    "tsconfig-paths": "4.2.0",
+    "typescript": "^4.7.4"
+  }
+}
